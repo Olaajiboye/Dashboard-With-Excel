@@ -26,3 +26,11 @@ Using the data, answer the following questions
 ## Methodology
 This project is divided into three sections which are: Data Ingestion and Cleaning, Data Analysis and Visualization, Conclusion and Recommendation.
 
+## Data Ingestion and Cleaning
+
+The data was cleaned using the excel.  Tasks such as organizing the data, changing column names, sorting, getting rid of empty columns, fixing missing values, trimming text, and making sure data types are correct. Our goal was to prepare the dataset for analysis, and we successfully achieved a 100% data quality for our columns.
+##
+![Screenshot 2023-12-26 at 11 17 21 PM](https://github.com/Olaajiboye/Dashboard-With-Excel/assets/152933091/1a4bbf54-f8a4-40d4-b998-6e46ac34a847)
+
+## Data Analysis and Visualization
+Data visualization is a graphical visualization of the data to help explain what we find when we analyze data. 
