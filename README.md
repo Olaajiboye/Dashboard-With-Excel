@@ -41,6 +41,7 @@ The sales trend shows the perfomance from each categories from 2017 till 2020. T
 
 ### Average rating for each Categories
 ![Screenshot 2024-01-01 at 3 27 09 PM](https://github.com/Olaajiboye/Dashboard-With-Excel/assets/152933091/1e921671-5c30-417f-ab99-a6f7c2e1f499)
+###
 The Product rating from customers hows more rating for Accessories all through the four years in review. All rating for Accessories is over 60% shows how much customer prefer to buy accessories products that every other categories
 
 ### Recommendation and Conclusion
