@@ -37,3 +37,16 @@ Data visualization is a graphical visualization of the data to help explain what
 ### Sales trend for each categories
 ![Screenshot 2024-01-01 at 3 18 45 PM](https://github.com/Olaajiboye/Dashboard-With-Excel/assets/152933091/03623046-1ad5-4f9a-934e-0bec7c9cb096)
 The sales trend shows the perfomance from each categories from 2017 till 2020. The analysis indicated that in 2017, the clothing category has higher sales revenue that other Categories while in 2018, the Accessories category had more sales with over 120k sales made. And looking at the sales for 2019 and 2020, the analysis also shows that the Accessories categories having over 230k sales generated. we can then determine that in the 4 years compared with his data, Accessories has more sales generated that every other categories.  with a total sales revenue of 1.2million, Accessories have half of the sales generated.
+![Screenshot 2023-12-26 at 11 28 39 PM](https://github.com/Olaajiboye/Dashboard-With-Excel/assets/152933091/6dd68239-ea8b-4c47-9293-3753478c49a4)
+
+### Average rating for each Categories
+![Screenshot 2024-01-01 at 3 27 09 PM](https://github.com/Olaajiboye/Dashboard-With-Excel/assets/152933091/1e921671-5c30-417f-ab99-a6f7c2e1f499)
+The Product rating from customers hows more rating for Accessories all through the four years in review. All rating for Accessories is over 60% shows how much customer prefer to buy accessories products that every other categories
+
+### Recommendation and Conclusion
+Recommendations
+
+Based on the analysis findings, it is recommended that high marketing efforts should be directed towards products with a high demand. These products are more profitable and cater to more consumer base. However, it's important to consider other associated costs, including shipping and production costs, when making marketing decisions. This approach ensures that marketing investments are directed towards products with the potential for the greatest overall profitability, taking both revenue and cost factors into account.
+
+Another key recommendation is to allocate high investments to encourage other product categories such as the clothings and components categories that have the potential for high earnings. Fomulating sales policies that can drive sales in other categories such as promotions, incentive and discounts can attract a broader customers, and capturing a wider range of customers that can lead to increased sales and revenue. 
+
