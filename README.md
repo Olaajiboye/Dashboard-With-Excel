@@ -44,8 +44,6 @@ The sales trend shows the perfomance from each categories from 2017 till 2020. T
 The Product rating from customers hows more rating for Accessories all through the four years in review. All rating for Accessories is over 60% shows how much customer prefer to buy accessories products that every other categories
 
 ### Recommendation and Conclusion
-Recommendations
-
 Based on the analysis findings, it is recommended that high marketing efforts should be directed towards products with a high demand. These products are more profitable and cater to more consumer base. However, it's important to consider other associated costs, including shipping and production costs, when making marketing decisions. This approach ensures that marketing investments are directed towards products with the potential for the greatest overall profitability, taking both revenue and cost factors into account.
 
 Another key recommendation is to allocate high investments to encourage other product categories such as the clothings and components categories that have the potential for high earnings. Fomulating sales policies that can drive sales in other categories such as promotions, incentive and discounts can attract a broader customers, and capturing a wider range of customers that can lead to increased sales and revenue. 
